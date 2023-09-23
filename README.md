@@ -17,6 +17,8 @@ Reads a directed graph from a file and receives requests for paths between two p
 		Makefile
 
 ## Acknowledgements:
+    Created as part of the CMPUT275 course at University of Alberta
+    Portions of the code are written by Tianyu Zhang
     Help from TA: G. Price
 
 ## Running Instructions: 
