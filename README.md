@@ -19,7 +19,6 @@ Reads a directed graph from a file and receives requests for paths between two p
 ## Acknowledgements:
     Created as part of the CMPUT275 course at University of Alberta
     Portions of the code are written by Tianyu Zhang
-    Help from TA: G. Price
 
 ## Running Instructions: 
     Run "make run" in the ./soln terminal. Then, gnome-terminal will be ran and the server will be executed, then the client. Below are the instructions for the plotter:
